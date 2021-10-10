@@ -37,8 +37,11 @@ node seeder -i
 ## Tech
 
 Database : MongoDB
+
 Core : Node.js
-Frameworks : Express
+
+Frameworks : Express.js
+
 Best front-end options : React/Vue/Angular (If you are interested to do one).
 
 ## Demo
