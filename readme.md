@@ -34,6 +34,13 @@ node seeder -d
 node seeder -i
 ```
 
+## Tech
+
+Database : MongoDB
+Core : Node.js
+Frameworks : Express
+Best front-end options : React/Vue/Angular (If you are interested to do one).
+
 ## Demo
 
 Extensive documentation with examples => https://documenter.getpostman.com/view/14070563/UV5Rkf8C
