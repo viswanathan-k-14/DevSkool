@@ -38,6 +38,8 @@ node seeder -i
 
 Database : MongoDB
 
+ORM/ODM : Mongoose
+
 Core : Node.js
 
 Frameworks : Express.js
